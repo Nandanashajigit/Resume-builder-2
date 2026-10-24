@@ -1,0 +1,261 @@
+{
+  "Software Developer": [
+    "JavaScript",
+    "Python",
+    "Java",
+    "Object-Oriented Programming",
+    "Data Structures",
+    "Algorithms",
+    "Git",
+    "REST APIs",
+    "Debugging",
+    "Software Testing"
+  ],
+
+  "Frontend Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Responsive Design",
+    "Tailwind CSS",
+    "Bootstrap",
+    "DOM Manipulation",
+    "Cross Browser Compatibility",
+    "Git"
+  ],
+
+  "Backend Developer": [
+    "Node.js",
+    "Express.js",
+    "REST API Development",
+    "Database Design",
+    "MongoDB",
+    "SQL",
+    "Authentication & Authorization",
+    "Server Security",
+    "API Integration",
+    "Git"
+  ],
+
+  "Full Stack Developer": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "HTML",
+    "CSS",
+    "REST APIs",
+    "Git",
+    "Deployment"
+  ],
+
+  "React Developer": [
+    "React",
+    "JavaScript",
+    "JSX",
+    "React Hooks",
+    "Redux",
+    "Component Lifecycle",
+    "API Integration",
+    "State Management",
+    "HTML",
+    "CSS"
+  ],
+
+  "Node.js Developer": [
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "MongoDB",
+    "Authentication",
+    "Middleware",
+    "Server Side Logic",
+    "API Security",
+    "Database Integration",
+    "Git"
+  ],
+
+  "UI/UX Designer": [
+    "Figma",
+    "Adobe XD",
+    "Wireframing",
+    "Prototyping",
+    "User Research",
+    "Usability Testing",
+    "Interaction Design",
+    "Design Systems",
+    "Typography",
+    "Color Theory"
+  ],
+
+  "Graphic Designer": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Typography",
+    "Brand Identity Design",
+    "Layout Design",
+    "Color Theory",
+    "Creative Thinking",
+    "Visual Communication",
+    "Logo Design",
+    "Image Editing"
+  ],
+
+  "Data Analyst": [
+    "SQL",
+    "Excel",
+    "Python",
+    "Data Visualization",
+    "Power BI",
+    "Tableau",
+    "Data Cleaning",
+    "Statistical Analysis",
+    "Pandas",
+    "NumPy"
+  ],
+
+  "Data Scientist": [
+    "Python",
+    "Machine Learning",
+    "Statistics",
+    "Data Visualization",
+    "Pandas",
+    "NumPy",
+    "Deep Learning",
+    "Model Evaluation",
+    "Data Wrangling",
+    "SQL"
+  ],
+
+  "Machine Learning Engineer": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Deep Learning",
+    "Data Preprocessing",
+    "Model Deployment",
+    "Natural Language Processing",
+    "Computer Vision",
+    "MLOps"
+  ],
+
+  "DevOps Engineer": [
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "AWS",
+    "Linux",
+    "Jenkins",
+    "Terraform",
+    "Git",
+    "Monitoring",
+    "Infrastructure as Code"
+  ],
+
+  "Cybersecurity Analyst": [
+    "Network Security",
+    "Vulnerability Assessment",
+    "Penetration Testing",
+    "Security Monitoring",
+    "Incident Response",
+    "Risk Assessment",
+    "Firewalls",
+    "Encryption",
+    "Security Compliance",
+    "Threat Analysis"
+  ],
+
+  "Project Manager": [
+    "Project Planning",
+    "Agile Methodology",
+    "Scrum",
+    "Risk Management",
+    "Budget Management",
+    "Team Leadership",
+    "Stakeholder Communication",
+    "Time Management",
+    "Jira",
+    "Decision Making"
+  ],
+
+  "Product Manager": [
+    "Product Strategy",
+    "Market Research",
+    "Roadmap Planning",
+    "Stakeholder Management",
+    "Agile Methodology",
+    "User Story Creation",
+    "Product Lifecycle Management",
+    "Data Analysis",
+    "Leadership",
+    "Communication"
+  ],
+
+  "Business Analyst": [
+    "Requirement Gathering",
+    "Business Process Analysis",
+    "Data Analysis",
+    "Stakeholder Communication",
+    "Documentation",
+    "Process Improvement",
+    "SQL",
+    "Agile Methodology",
+    "Problem Solving",
+    "Reporting"
+  ],
+
+  "Digital Marketing Specialist": [
+    "SEO",
+    "Social Media Marketing",
+    "Content Marketing",
+    "Email Marketing",
+    "Google Analytics",
+    "PPC Advertising",
+    "Campaign Management",
+    "Keyword Research",
+    "Marketing Strategy",
+    "Conversion Optimization"
+  ],
+
+  "SEO Specialist": [
+    "Keyword Research",
+    "On Page SEO",
+    "Off Page SEO",
+    "Technical SEO",
+    "Google Search Console",
+    "Google Analytics",
+    "Backlink Building",
+    "SEO Auditing",
+    "Content Optimization",
+    "Competitor Analysis"
+  ],
+
+  "Content Writer": [
+    "Content Writing",
+    "SEO Writing",
+    "Research",
+    "Editing",
+    "Storytelling",
+    "Blog Writing",
+    "Copywriting",
+    "Content Strategy",
+    "Proofreading",
+    "Creative Writing"
+  ],
+
+  "HR Manager": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Employee Engagement",
+    "Performance Management",
+    "HR Policies",
+    "Conflict Resolution",
+    "Training & Development",
+    "Payroll Management",
+    "Leadership",
+    "Communication"
+  ]
+}
